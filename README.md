@@ -5,4 +5,5 @@ HEY ITS STEVENS LINES
 
 ADDING TEXT AGAIN
 
-these are Kendall's changes!!
+
+if you can see this then we might have done it right
